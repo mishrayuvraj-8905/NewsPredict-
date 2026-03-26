@@ -21,7 +21,7 @@ Predicting ripple effects - Understanding how global events impact your wallet, 
 •
 Providing actionable insights - Make better decisions with historical context
 
-#Phase 1-
+# Phase 1-
 Creating Website...
 
 
